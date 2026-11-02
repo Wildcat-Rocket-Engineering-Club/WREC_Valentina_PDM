@@ -33,5 +33,16 @@ people:
   - Responsible Engineer
   - Quality
   active: true
+- id: colin-ryan
+  name: Colin Ryan
+  email: ColinRyan@arizona.edu
+  host_names:
+  - Colin Ryan Intro Project Manager
+  access: admin
+  roles:
+  - Analysis
+  - Manager
+  - Responsible Engineer
+  active: true
 superuser_roles:
 - Chief
