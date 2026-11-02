@@ -67,5 +67,17 @@ people:
   - Responsible Engineer
   - Quality
   active: true
+- id: ryker
+  name: Ryker
+  email: rykerrohlfing@arizona
+  host_names:
+  - rykerrohlfing
+  access: member
+  roles:
+  - Responsible Engineer
+  - Manufacturing
+  - Quality
+  - Analysis
+  active: true
 superuser_roles:
 - Chief
