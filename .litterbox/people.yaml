@@ -1,0 +1,18 @@
+roles:
+- Responsible Engineer
+- Manufacturing
+- Quality
+- Analysis
+- Manager
+- Chief
+people:
+- id: jgbuskirk
+  name: jgbuskirk-ui
+  email: Jgbuskirk@gmail.com
+  host_names:
+  - JgBuskirk
+  access: owner
+  roles: []
+  active: true
+superuser_roles:
+- Chief
