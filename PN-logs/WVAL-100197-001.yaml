@@ -1,0 +1,22 @@
+format: 1
+org: WVAL
+pn: '100197-001'
+revision: A
+released_revision: ''
+name: 92949A582 18-8 Stainless Steel Button Head Hex-Drive Screw
+description: 92949A582_18-8 Stainless Steel Button Head Hex-Drive Screw.SLDPRT
+status: in_work
+cots: false
+imported: true
+import_path: C:\WREC\Jeb Lite\CAD Redo Valentina\Engine_Assembly\92949A582_18-8 Stainless Steel Button
+  Head Hex-Drive Screw.SLDPRT
+created_by: jgbuskirk-ui
+created_by_id: jgbuskirk
+created_at: '2026-11-02T02:59:24Z'
+approvals: []
+history:
+- event: created
+  by: jgbuskirk-ui
+  at: '2026-11-02T02:59:24Z'
+  revision: A
+  by_id: jgbuskirk

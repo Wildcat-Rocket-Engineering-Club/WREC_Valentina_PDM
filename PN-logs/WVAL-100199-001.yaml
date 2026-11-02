@@ -1,0 +1,22 @@
+format: 1
+org: WVAL
+pn: '100199-001'
+revision: A
+released_revision: ''
+name: 9464K183 Chemical-Resistant Viton Fluoroelastomer O-Ring
+description: 9464K183_Chemical-Resistant Viton Fluoroelastomer O-Ring.SLDPRT
+status: in_work
+cots: false
+imported: true
+import_path: C:\WREC\Jeb Lite\CAD Redo Valentina\Engine_Assembly\9464K183_Chemical-Resistant Viton Fluoroelastomer
+  O-Ring.SLDPRT
+created_by: jgbuskirk-ui
+created_by_id: jgbuskirk
+created_at: '2026-11-02T02:59:24Z'
+approvals: []
+history:
+- event: created
+  by: jgbuskirk-ui
+  at: '2026-11-02T02:59:24Z'
+  revision: A
+  by_id: jgbuskirk

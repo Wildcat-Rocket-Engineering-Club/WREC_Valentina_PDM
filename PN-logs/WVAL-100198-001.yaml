@@ -1,0 +1,22 @@
+format: 1
+org: WVAL
+pn: '100198-001'
+revision: A
+released_revision: ''
+name: 9319K57 Chemical-Resistant FEP-Encapsulated Silicone O-Ring
+description: 9319K57_Chemical-Resistant FEP-Encapsulated Silicone O-Ring.SLDPRT
+status: in_work
+cots: false
+imported: true
+import_path: C:\WREC\Jeb Lite\CAD Redo Valentina\Engine_Assembly\9319K57_Chemical-Resistant FEP-Encapsulated
+  Silicone O-Ring.SLDPRT
+created_by: jgbuskirk-ui
+created_by_id: jgbuskirk
+created_at: '2026-11-02T02:59:24Z'
+approvals: []
+history:
+- event: created
+  by: jgbuskirk-ui
+  at: '2026-11-02T02:59:24Z'
+  revision: A
+  by_id: jgbuskirk
