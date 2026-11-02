@@ -24,7 +24,7 @@ people:
   name: dsheppard2
   email: dsheppard1@arizona.edu
   host_names:
-  - Douglas Propulsion Manager
+  - dsheppard2
   access: admin
   roles:
   - Manager
