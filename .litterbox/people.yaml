@@ -12,7 +12,13 @@ people:
   host_names:
   - JgBuskirk
   access: owner
-  roles: []
+  roles:
+  - Responsible Engineer
+  - Manufacturing
+  - Quality
+  - Analysis
+  - Manager
+  - Chief
   active: true
 - id: douglas
   name: Douglas
