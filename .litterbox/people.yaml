@@ -14,5 +14,18 @@ people:
   access: owner
   roles: []
   active: true
+- id: douglas
+  name: Douglas
+  email: dsheppard1@arizona.edu
+  host_names:
+  - Douglas Propulsion Manager
+  access: admin
+  roles:
+  - Manager
+  - Analysis
+  - Manufacturing
+  - Responsible Engineer
+  - Quality
+  active: true
 superuser_roles:
 - Chief
