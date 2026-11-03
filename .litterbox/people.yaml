@@ -81,7 +81,7 @@ people:
   active: true
 - id: carlos
   name: Carlos
-  email: cniedes@arizona.edu
+  email: cnieves@arizona.edu
   host_names:
   - Carlos-Nova
   access: admin
