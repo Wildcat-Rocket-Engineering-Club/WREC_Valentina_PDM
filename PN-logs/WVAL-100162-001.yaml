@@ -1,0 +1,22 @@
+format: 1
+org: WVAL
+pn: '100162-001'
+revision: A
+released_revision: ''
+name: 4568K132 Standard-Wall Brass Pipe Nipple
+description: 4568K132_Standard-Wall Brass Pipe Nipple.SLDPRT
+status: in_work
+cots: false
+imported: true
+import_path: C:\Users\Omega\OneDrive\Documents\UA Work\Fall 2026\WREC\Valentina\Tank\McMaster Bits\4568K132_Standard-Wall
+  Brass Pipe Nipple.SLDPRT
+created_by: Carlos
+created_by_id: carlos
+created_at: '2026-11-03T01:01:01Z'
+approvals: []
+history:
+- event: created
+  by: Carlos
+  at: '2026-11-03T01:01:01Z'
+  revision: A
+  by_id: carlos
