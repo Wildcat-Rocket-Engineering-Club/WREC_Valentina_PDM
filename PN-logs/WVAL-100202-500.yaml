@@ -123,3 +123,17 @@ history:
     - WVAL-100205-001_A
     - WVAL-100206-001_A
     - WVAL-100207-001_A
+- event: checked_out
+  by: Douglas Sheppard
+  at: '2026-11-03T00:37:27Z'
+  revision: A
+  by_id: douglas
+  files:
+  - cad/WVAL-100202-500_A.SLDASM
+- event: checked_in
+  by: Douglas Sheppard
+  at: '2026-11-03T00:37:55Z'
+  revision: A
+  by_id: douglas
+  files: []
+  comment: test
