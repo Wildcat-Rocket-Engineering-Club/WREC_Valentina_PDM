@@ -79,5 +79,14 @@ people:
   - Quality
   - Analysis
   active: true
+- id: carlos
+  name: Carlos
+  email: cniedes@arizona.edu
+  host_names:
+  - Carlos-Nova
+  access: member
+  roles:
+  - Quality
+  active: true
 superuser_roles:
 - Chief
