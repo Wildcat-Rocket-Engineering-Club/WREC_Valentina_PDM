@@ -1,0 +1,5 @@
+version: 1
+templates:
+- file: Draw1.DRWDOT
+  kind: drawing
+  default: true
