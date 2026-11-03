@@ -84,7 +84,7 @@ people:
   email: cniedes@arizona.edu
   host_names:
   - Carlos-Nova
-  access: member
+  access: admin
   roles:
   - Quality
   active: true
