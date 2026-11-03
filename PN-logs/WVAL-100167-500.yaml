@@ -114,3 +114,17 @@ history:
       WVAL-100164-001_A: 32
       WVAL-100165-001_A: 2
       WVAL-100166-001_A: 2
+- event: checked_out
+  by: Carlos
+  at: '2026-11-03T01:02:26Z'
+  revision: A
+  by_id: carlos
+  files:
+  - cad/WVAL-100167-500_A.SLDASM
+- event: checked_in
+  by: Carlos
+  at: '2026-11-03T01:06:55Z'
+  revision: A
+  by_id: carlos
+  files: []
+  comment: Test check out
